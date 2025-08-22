@@ -1,12 +1,12 @@
 public class MyClass {
 
-    private String greeting;
+  private String greeting;
 
-    public MyClass(String greeting) {
-        this.greeting = greeting;
-    }
+  public MyClass(String greeting) {
+    this.greeting = greeting;
+  }
 
-    public String getGreeting() {
-        return this.greeting;
-    }
+  public String getGreeting() {
+    return this.greeting;
+  }
 }
